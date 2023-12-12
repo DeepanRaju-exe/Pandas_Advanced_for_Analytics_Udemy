@@ -5,13 +5,13 @@
 
 
 
-## Here by documenting the learings that i got from pandas library via [The Ultimate Pandas Bootcamp: Advanced Python Data Analysis](https://www.udemy.com/course/the-ultimate-pandas-bootcamp-advanced-python-data-analysis/)
-## I have attached my notebooks regarding the same. Can be used to revise concepts
+### Here by documenting the learings that i got from pandas library via [The Ultimate Pandas Bootcamp: Advanced Python Data Analysis](https://www.udemy.com/course/the-ultimate-pandas-bootcamp-advanced-python-data-analysis/)
+### I have attached my Notebooks regarding the same. Can be used to revise concepts
 
 
 
-### 📖 Table of Content:
+#### 📖 Table of Content:
 
-### 1️⃣ [Series](https://github.com/DeepanRaju-exe/Pandas_Advanced_for_Analytics_Udemy/blob/main/Series1%262.ipynb)
+#### 1️⃣ [Series](https://github.com/DeepanRaju-exe/Pandas_Advanced_for_Analytics_Udemy/blob/main/Series1%262.ipynb)
 =========
 
