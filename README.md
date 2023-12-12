@@ -5,7 +5,7 @@
 
 
 
-## Here by documenting the learings that i got from pandas library via [The Ultimate Pandas Bootcamp: Advanced Python Data Analysis.] (https://www.udemy.com/course/the-ultimate-pandas-bootcamp-advanced-python-data-analysis/)
+## Here by documenting the learings that i got from pandas library via [The Ultimate Pandas Bootcamp: Advanced Python Data Analysis](https://www.udemy.com/course/the-ultimate-pandas-bootcamp-advanced-python-data-analysis/)
 ## I have attached my notebooks regarding the same. Can be used to revise concepts
 
 
